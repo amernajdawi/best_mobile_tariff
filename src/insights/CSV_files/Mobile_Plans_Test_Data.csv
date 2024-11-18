@@ -1,0 +1,7 @@
+Provider,Plan Name,Monthly Cost ($),Data Limit (GB),Minutes Limit,SMS Limit,Data Overcharge ($/GB),Minutes Overcharge ($/min),SMS Overcharge ($/SMS)
+ProviderA,Basic,20,5,100,100,5,0.1,0.05
+ProviderA,Premium,50,20,500,500,2,0.05,0.02
+ProviderB,Standard,30,10,300,200,3,0.08,0.04
+ProviderB,Unlimited,70,50,1000,1000,1,0.02,0.01
+ProviderC,Economy,15,3,50,50,7,0.15,0.1
+ProviderC,Pro,40,15,400,300,3,0.07,0.03
